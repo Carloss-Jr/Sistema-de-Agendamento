@@ -1,0 +1,19 @@
+{
+  "name": "sistema_de_agendamento",
+  "version": "1.0.0",
+  "description": "Sistema de Agendamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carloss-Jr/Sistema-de-Agendamento.git"
+  },
+  "author": "Carlos Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carloss-Jr/Sistema-de-Agendamento/issues"
+  },
+  "homepage": "https://github.com/Carloss-Jr/Sistema-de-Agendamento#readme"
+}
